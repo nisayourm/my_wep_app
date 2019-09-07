@@ -21,9 +21,6 @@ function resizeButtonPeole() {
 
 
 
-
-
-
 window.onload = function(){
   resizeButtonPeole();
 
